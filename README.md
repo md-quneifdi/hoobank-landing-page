@@ -3,5 +3,9 @@
  
  # What I learnd by building this project : 
  ##- using the flexbox in a professional way. 
- ##- updating the status with the best way.
- ##- making the website fully responsive with all screens sizes.
+ <br>
+ ##- updating the status using the best practice.
+ <br>
+ --
+ ##- making the website fully responsive with all screens sizes in a professional way.
+ --
