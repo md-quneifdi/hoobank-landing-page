@@ -6,6 +6,5 @@
  <br>
  ##- updating the status using the best practice.
  <br>
- --
  ##- making the website fully responsive with all screens sizes in a professional way.
- --
+
